@@ -1,4 +1,5 @@
 # Diagramma di flusso per calcolo MCD e mcm
+```mermaid
 flowchart TB
   A["Scomposizione in fattori primi di ogni numero"]
   A --> B["MCD<br/><i>Moltiplica i fattori comuni.<br/>Prendi l’esponente più piccolo.</i>"]
